@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "291544618789",
+    "firebase_url": "https://proyectotm-25d96-default-rtdb.firebaseio.com",
+    "project_id": "proyectotm-25d96",
+    "storage_bucket": "proyectotm-25d96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291544618789:android:fc9d3fbc0baf3486722ccc",
+        "android_client_info": {
+          "package_name": "com.example.ejercicio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU8Y250CuxdZM0SxxJ-YMW_bGvEE-lhBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291544618789:android:a0a4a664ad123a84722ccc",
+        "android_client_info": {
+          "package_name": "com.example.ejercicio01tm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU8Y250CuxdZM0SxxJ-YMW_bGvEE-lhBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
