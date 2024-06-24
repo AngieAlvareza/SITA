@@ -1,0 +1,89 @@
+<resources>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="app_name">Registro de Rutas de Buses</string>
+    <string name="title_activity_main">Registro de Rutas</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="hint_origen">Seleccione el origen</string>
+    <string name="hint_destino">Seleccione el destino</string>
+    <string name="hint_detalles">Ingrese detalles de la ruta</string>
+    <string name="btn_registrar">Registrar Ruta</string>
+    <string name="toolbar_title">Registro de Rutas de Buses</string>
+
+    <string-array name="origenes">
+        <item>Socabaya</item>
+        <item>Jose Luis</item>
+        <item>Vallecito</item>
+
+    </string-array>
+
+    <string-array name="destinos">
+        <item>Cercado</item>
+        <item>Yanahuara</item>
+        <item>Cayma</item>
+        <item>José Luis Bustamante y Rivero</item>
+        <item>Cerro Colorado</item>
+        <item>Socabaya</item>
+        <item>Mariano Melgar</item>
+        <item>Miraflores</item>
+        <item>Alto Selva Alegre</item>
+        <item>Jacobo Hunter</item>
+        <item>Paucarpata</item>
+        <item>Tiabaya</item>
+        <item>Sachaca</item>
+        <item>Characato</item>
+        <item>Chiguata</item>
+        <item>La Joya</item>
+        <item>Mollebaya</item>
+        <item>Pocsi</item>
+        <item>Polobaya</item>
+        <item>Quequeña</item>
+        <item>Sabandia</item>
+        <item>San Juan de Siguas</item>
+        <item>San Juan de Tarucani</item>
+        <item>Santa Isabel de Siguas</item>
+        <item>Santa Rita de Siguas</item>
+        <item>Uchumayo</item>
+        <item>Vítor</item>
+        <item>Yarabamba</item>
+        <item>Yura</item>
+    </string-array>
+
+
+        <string-array name="distritos_arequipa">
+            <item>Cercado</item>
+            <item>Yanahuara</item>
+            <item>Cayma</item>
+            <item>José Luis Bustamante y Rivero</item>
+            <item>Cerro Colorado</item>
+            <item>Socabaya</item>
+            <item>Mariano Melgar</item>
+            <item>Miraflores</item>
+            <item>Alto Selva Alegre</item>
+            <item>Jacobo Hunter</item>
+            <item>Paucarpata</item>
+            <item>Tiabaya</item>
+            <item>Sachaca</item>
+            <item>Characato</item>
+            <item>Chiguata</item>
+            <item>La Joya</item>
+            <item>Mollebaya</item>
+            <item>Pocsi</item>
+            <item>Polobaya</item>
+            <item>Quequeña</item>
+            <item>Sabandia</item>
+            <item>San Juan de Siguas</item>
+            <item>San Juan de Tarucani</item>
+            <item>Santa Isabel de Siguas</item>
+            <item>Santa Rita de Siguas</item>
+            <item>Uchumayo</item>
+            <item>Vítor</item>
+            <item>Yarabamba</item>
+            <item>Yura</item>
+            <!-- Agrega más distritos según sea necesario -->
+        </string-array>
+
+
+</resources>
